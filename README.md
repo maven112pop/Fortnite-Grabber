@@ -1,6 +1,6 @@
 # FN Grabber 🎮
 
-**FN Grabber** is a sleek Python script that lets you grab the **Account ID** of any Fortnite player by entering their username and platform (epic, xbl, or psn). It uses data from [epic-lookup.com](https://epic-lookup.com/).
+**FN Grabber** is a sleek Python script that lets you grab the **Account ID** of any Fortnite player by entering their username and platform (epic, xbl, or psn).
 
 ---
 
