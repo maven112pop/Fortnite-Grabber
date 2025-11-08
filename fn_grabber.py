@@ -19,8 +19,8 @@ def print_banner():
 def fn_grabber():
     os.system('cls' if os.name == 'nt' else 'clear')
     print_banner()
-    username = input("Enter Fortnite username: ").strip()
-    platform = input("Enter platform (epic, xbl, psn): ").strip().lower()
+    username = input("Enter Fortnite username: Bossman450    ").strip()
+    platform = input("Enter platform (epic): ").strip().lower()
 
     url = f"https://epic-lookup.com/user/{platform}/{username}"
     headers = {
